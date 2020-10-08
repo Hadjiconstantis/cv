@@ -1,0 +1,32 @@
+
+  body{
+        background-color: #32e0c4;
+  }
+  hr{
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: thick;
+    width: 3%;
+  }
+h3 {
+  font-style: italic;
+  color:  #9d65c9;
+}
+
+a:hover {
+  font-size: 130%;
+  color: red;
+}
+
+a:focus {
+  color: yellow;
+}
+
+h1 {
+    color:  #9d65c9;
+    font-style: italic;
+}
+
+hr:hover {
+    border-width: 12px;
+}
